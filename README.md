@@ -9,4 +9,5 @@ The company also wants to use artificial intelligence. Services like **SageMaker
 **The main objective is to create a scalable, secure, and automated platform that improves customer experience, processes data efficiently, and supports better business decisions.**
 
 <img width="2215" height="1172" alt="INTELLIGENT DATA PROCESSING - AWS ARCHITECTURE" src="https://github.com/user-attachments/assets/bbd6ea8d-4ba3-4951-8f6b-43e55afa2213" />
-<img width="1774" height="887" alt="-1-" src="https://github.com/user-attachments/assets/87f496e9-e2df-42fb-ba56-ea21ccff85f0" />
+<img width="1774" height="887" alt="-1-" src="https://github.com/user-attachments/assets/ca485af2-b6ca-4f93-9463-66dcc74880b1" />
+
